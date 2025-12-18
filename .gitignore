@@ -1,0 +1,7 @@
+# Ignore buildozer cache and build outputs
+.buildozer/
+bin/
+__pycache__/
+*.pyc
+*.pyo
+*.log
