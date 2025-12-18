@@ -1,13 +1,13 @@
 [app]
 
 # (str) Title of your application
-title = PanchangaApp
+title = Simple Birth Chart App
 
 # (str) Package name
-package.name = panchangaapp
+package.name = simplebirthchart
 
 # (str) Package domain (needed for android/ios packaging)
-package.domain = org.murthy
+package.domain = org.ksmurthy
 
 # (str) Source code where the main.py live
 source.dir = .
